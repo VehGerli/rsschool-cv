@@ -1,2 +1,1 @@
-Hello!
-https://VehGerli.github.io/rsschool-cv/cv
+https://VehGerli.github.io/rsschool-cv/
